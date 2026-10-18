@@ -30,7 +30,7 @@ I am currently learning:
 
 # 📝 Publications 
 
-# 🎖 Honors and Awards
+# 🎖  Honors and Awards
 
 # 📖 Educations
 
