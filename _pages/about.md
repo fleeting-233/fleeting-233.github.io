@@ -23,7 +23,7 @@ I am currently learning:
 
 - High Performance Computing
 - Artificial Intelligence
-- Linux and System Programming
+- Linux 
 
 
 # 🔥 News
